@@ -1,6 +1,6 @@
 ## Inteligencia Artificial para Videojuegos 25-26
 
-Organización creada para *compartir material visto en el laboratorio* a través de repositorios asociados a las prácticas de la asignatura durante el presente curso.
+Organización creada por el profesorado para *compartir material visto en el laboratorio* con los alumnos durante el presente curso, a través de repositorios asociados a cada una de las prácticas de la asignatura.
 
 Si hay descargas adicionales, estarán disponibles en esta [carpeta compartida en Google Drive](https://drive.google.com/drive/folders/1DSV33-zWnsPUKFMVgjVYWVYSr8WDe4NU) con acceso público de lectura. 
 
